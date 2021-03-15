@@ -519,7 +519,7 @@ a.simpleCart_empty {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #F19E1F;
+  background: #11bd5d;
     border-radius: 50%;
 	-webkit-border-radius: 60%;
 	-moz-border-radius: 60%;
@@ -654,7 +654,7 @@ a:focus {
     top: 30%;
     left: -3%;
     padding: 0.5em;
-    background: #F19E1F;
+    background: #e9d021;
     width: 32%;
 }
 .ribben1 {
@@ -972,7 +972,7 @@ h3.tittle1 {
     margin-right: 11px;
     line-height: 2em;
     border-radius: 48px;
-    border: 1px solid #F19E1F;
+    border: 1px solid #11bd5d;
     width: 30px;
     height: 30px;
     text-align: center;
@@ -1025,7 +1025,7 @@ h3.tittle1 {
 .social-icon a i {
     width: 32px;
     height: 32px;
-    background:#F19E1F url(../images/img-sprite.png) no-repeat 0px 0px;
+    background:#11bd5d url(../images/img-sprite.png) no-repeat 0px 0px;
     display: inline-block;
 	margin:0 0.2em;
 	transition: 0.5s all;
@@ -1243,7 +1243,7 @@ h3.tittle1 {
     text-align: center;
     font-size: 2.5em;
     padding: .2em;
-    background: #f19e1f;
+    background: #11bd5d;
     color: #fff;
     margin-bottom: .5em;
 }
@@ -1382,7 +1382,7 @@ h3.tittle1 {
     text-align: center;
     font-size: 2em;
     padding: .2em;
-    background: #f19e1f;
+    background: #11bd5d;
     color: #fff;
     margin-bottom: .5em;
 }
@@ -1751,7 +1751,7 @@ h2.typoh2{
 }
 .description span {
     font-size: 1.2em;
-    color: #f19e1f;
+    color: #11bd5d;
     font-weight: bold;
 	font-family: 'Cagliostro', sans-serif;
 }
@@ -1810,7 +1810,7 @@ span.price-in1 {
     border: none !important;
     border-radius: 0;
     color: #fff;
-    background: #F19E1F ;
+    background: #11bd5d ;
     padding: 0.5em 1em;
     font-size: 1.2em;
 }
@@ -1927,7 +1927,7 @@ p.quote {
     -ms-transition: .5s all;
 }
 .reviews-bottom input[type="submit"]:hover {
-    background: #F19E1F;
+    background: #11bd5d;
 }
 /*--single--*/
 /*--mail--*/
